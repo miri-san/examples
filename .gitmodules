@@ -1,3 +1,4 @@
 [submodule "email/angular/default"]
 	path = email/angular/default
 	url = https://github.com/Snippyly-Docs/demo-email
+	ignore = untracked
