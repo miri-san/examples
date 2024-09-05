@@ -1,0 +1,6 @@
+[submodule "email_marketing_tool"]
+	path = email_marketing_tool
+	url = https://github.com/Snippyly-Docs/demo-email
+[submodule "spreadsheet_app"]
+	path = spreadsheet_app
+	url = https://github.com/Snippyly-Docs/sample-app-sheets
